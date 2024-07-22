@@ -47,6 +47,13 @@ export default function RootLayout({ children }) {
 
             </div>
         </div>
+
+        <footer>
+          <div className="footer-contact">
+          <h2>Contact me</h2>
+
+          </div>
+        </footer>
         {children}</body>
     </html>
   );
